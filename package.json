@@ -1,0 +1,25 @@
+{
+  "name": "tessel-pulse",
+  "version": "0.1.0",
+  "description": "Pulse your LEDs with tessel",
+  "main": "pulse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcollina/tessel-pulse.git"
+  },
+  "keywords": [
+    "tessel",
+    "pulse",
+    "led",
+    "blink"
+  ],
+  "author": "Matteo Collina <hello@matteocollina.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcollina/tessel-pulse/issues"
+  },
+  "homepage": "https://github.com/mcollina/tessel-pulse"
+}
